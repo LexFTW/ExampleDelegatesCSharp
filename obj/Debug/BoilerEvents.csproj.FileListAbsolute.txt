@@ -1,0 +1,5 @@
+C:\Users\alexismv\source\repos\BoilerEvents\BoilerEvents\bin\Debug\BoilerEvents.exe.config
+C:\Users\alexismv\source\repos\BoilerEvents\BoilerEvents\bin\Debug\BoilerEvents.exe
+C:\Users\alexismv\source\repos\BoilerEvents\BoilerEvents\bin\Debug\BoilerEvents.pdb
+C:\Users\alexismv\source\repos\BoilerEvents\BoilerEvents\obj\Debug\BoilerEvents.exe
+C:\Users\alexismv\source\repos\BoilerEvents\BoilerEvents\obj\Debug\BoilerEvents.pdb
